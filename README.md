@@ -1,6 +1,7 @@
 # Dice-Wars-Europe-versions
 
 > Jogo de estratégia e sorte
+
 > Singleplayer, P1 vs Comp
 
 Domine todos os seus oponentes para vencer o jogo!
